@@ -1,0 +1,11 @@
+# Site settings
+title: Nick Weinberg
+email: nickweinberg90@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Just cleaning my room.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nickweinberg.github.io" # the base hostname & protocol for your site
+github_username: nickweinberg 
+
+# Build settings
+markdown: kramdown
